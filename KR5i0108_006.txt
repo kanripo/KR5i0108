@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:47:44.840123
+#+DATE: 2015-08-29 17:47:45.106109
 #+PROPERTY: ID KR5i0108
-#+TITLE: 太上無極太道三十六部尊經註解
+#+TITLE: 太上無極大道三十六部尊經註解
+#+PROPERTY: pinyin Taishang Wuji Dadao Sanshiliu Bu Zunjing Zhujie
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 #+PROPERTY: JUAN txt
